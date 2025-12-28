@@ -6,6 +6,19 @@
 
 ## 关键词查询
 
+### 快速查询（推荐）
+
+直接通过 URL 参数查询：
+```
+https://sem.3ue.co/analytics/keywordoverview/?q={关键词}&db=us
+```
+
+关键词空格用 `+` 连接，`db=us` 表示美国市场。
+
+示例：
+- `https://sem.3ue.co/analytics/keywordoverview/?q=pdf+to+word&db=us`
+- `https://sem.3ue.co/analytics/keywordoverview/?q=online+resume+builder&db=us`
+
 ### 方式 1: 单个关键词查询
 
 1. 找到 Keyword Overview 或搜索框
